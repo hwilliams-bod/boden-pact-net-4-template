@@ -21,7 +21,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Consumer\Readme.Consumer.csproj" />
-    <ProjectReference Include="..\..\..\src\PactNet\PactNet.csproj" />
   </ItemGroup>
 
 </Project>
